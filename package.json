@@ -1,0 +1,28 @@
+{
+  "name": "express-ls-routes",
+  "version": "0.1.0",
+  "description": "Cli and route to list routes in your express app",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaketrent/express-ls-routes.git"
+  },
+  "keywords": [
+    "express",
+    "express routes",
+    "app/config/routes",
+    "rake routes"
+  ],
+  "author": "jaketrent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaketrent/express-ls-routes/issues"
+  },
+  "homepage": "https://github.com/jaketrent/express-ls-routes",
+  "bin": {
+    "routes": "./bin/cli.js"
+  },
+  "dependencies": {
+    "lodash-node": "~2.4.1"
+  }
+}
