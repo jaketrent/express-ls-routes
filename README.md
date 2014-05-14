@@ -70,7 +70,7 @@ app/config/routes.js
 ```
 You can change this behavior by doing two things:
 
-1. Run the cli via npm scripts by adding it in `package.json`:
+- Run the cli via npm scripts by adding it in `package.json`:
 
 ```
 "scripts": {
@@ -78,7 +78,7 @@ You can change this behavior by doing two things:
 }
 ```
 
-2. Add config in `package.json` for the `routes.js` location:
+- Add config in `package.json` for the `routes.js` location:
 
 ```
 "config": {
