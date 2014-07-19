@@ -1,6 +1,6 @@
 {
   "name": "express-ls-routes",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Cli and middleware to list routes in your express app",
   "main": "index.js",
   "repository": {
