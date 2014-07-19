@@ -1,6 +1,8 @@
 express-ls-routes
 =================
 
+*Updated: supports express3 and express4!*
+
 It's a cli that lets you list the routes in your express app:
 
 ```
